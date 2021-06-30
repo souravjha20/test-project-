@@ -3,7 +3,7 @@ public class Main {
   public static void main(String[] args) {
 
     // year to be checked
-    int year = 1994;
+    int year = 1998;
     boolean leap = false;
 
     // if the year is divided by 4
